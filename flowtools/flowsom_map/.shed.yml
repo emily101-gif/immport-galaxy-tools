@@ -1,5 +1,5 @@
 owner: iuc
-name: FlowSOMMApIndividualFCS
+name: flowsom_cross_comp
 description: Map individual FCS to reference SOM" version="1.0">
   <description>using FlowSOM.
 long_description: |
