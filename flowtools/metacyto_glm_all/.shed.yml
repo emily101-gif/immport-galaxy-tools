@@ -1,4 +1,4 @@
-owner: iuc
+owner: azomics
 name: metacyto_glm_all
 description: This tool uses MetaCyto to perform a generalized linear model analysis estimating effect size of independent variables.
 long_description: |
