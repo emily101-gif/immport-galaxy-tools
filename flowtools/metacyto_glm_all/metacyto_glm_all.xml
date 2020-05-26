@@ -1,4 +1,4 @@
-<tool id="metacyto_glm_all" name="Metadata analysis of all data" version="1.0">
+<tool id="metacyto_glm_all" name="Metadata analysis of all data" version="1.0+galaxy.0" profile="18.01">
   <description>using MetaCyto's generalized linear model analysis</description>
   <requirements>
     <requirement type="package" version="1.42.0">bioconductor-flowcore</requirement>
