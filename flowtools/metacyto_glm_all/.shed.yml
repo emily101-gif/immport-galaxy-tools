@@ -2,6 +2,9 @@ owner: azomics
 name: metacyto_glm_all
 description: This tool uses MetaCyto to perform a generalized linear model analysis estimating effect size of independent variables.
 long_description: |
+    **Note**
+    This was written by immport-dev-team, only uploaded to the toolshed by azomics user.
+    
     **Input**
     This tool requires the output from a MetaCyto clustering analysis, as well as a tabular file containing corresponding metadata (see below for formatting). At least one independent variable must be provided for the generalized linear model.
     The file containing the metadata needs to be formatted according to the example below. Any other formats will not work.
